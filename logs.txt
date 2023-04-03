@@ -1,0 +1,28 @@
+commit a1bd5df9164358d2d8981d6e0f0b061aa39007dc (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: avasileva10 <72934658+avasileva10@users.noreply.github.com>
+Date:   Mon Apr 3 17:01:04 2023 +0200
+
+    Fix method sumEvenNumbers.
+
+commit c51529d8a65f0bd80479e0281b692124fb36fe8b
+Merge: bca4662 0ab8dde
+Author: avasileva10 <72934658+avasileva10@users.noreply.github.com>
+Date:   Mon Apr 3 17:02:50 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 0ab8dde6b5ca991d86eeac254a55a04e5bab371d (origin/bug2, bug2)
+Author: avasileva10 <72934658+avasileva10@users.noreply.github.com>
+Date:   Mon Apr 3 16:59:53 2023 +0200
+
+    Fix wrong condition in filterOddNumbers.
+
+commit bca46624f878a035ed5a821c7a3bb97db9c2383d (origin/bug1, bug1)
+Author: avasileva10 <72934658+avasileva10@users.noreply.github.com>
+Date:   Mon Apr 3 16:57:45 2023 +0200
+
+    Fix wrong loop for reading.
+
+commit fbdfd2a65500eec242b4ec1dcc6e75a10ea31726
+Author: avasileva10 <72934658+avasileva10@users.noreply.github.com>
+Date:   Wed Mar 29 17:28:07 2023 +0200
